@@ -24,3 +24,16 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **Jupyter Notebooks:** The tool I used to run my Python scripts which let me easily include my notes and analysis.
 - **Visual Studio Code:** My go-to for executing my Python scripts.
 - **Git & GitHub:** Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
+# Results
+![The number of offers by companies](https://github.com/user-attachments/assets/2f641a8c-fa0a-4943-89fb-c2afe329f30f)
+
+
+![Top 3 job locations for data scientists](https://github.com/user-attachments/assets/d2a59fc0-c036-4e6b-a42d-f0b066b6830c)
+
+
+![Top skills for Data scientist in Czech republic](https://github.com/user-attachments/assets/163249dc-4b3a-4665-99f3-12a7d3ae365b)
+
+
+![Trending top skills for Data analysts in the Czech republic](https://github.com/user-attachments/assets/89760298-195b-4197-991a-93d3e16daab7)
+
+
